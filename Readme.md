@@ -78,4 +78,7 @@ The application exposes the following endpoints:
 ![Sequence Diagram](https://static.swimlanes.io/f6c68af233fe9cc167584007365e9e1c.png)
 
 ## Postman Collection
-/PostmanCollection/AtlysWebscraperCurls.postman_collection.json
+
+For your convenience, you can use the provided Postman collection to test the API endpoints.
+
+[Download Postman Collection](/PostmanCollection/AtlysWebscraperCurls.postman_collection.json)
