@@ -1,4 +1,4 @@
-# Web Scraper FastAPI Application
+# Atlys Webscraper Assignment
 
 This repository contains a FastAPI-based web scraper application that scrapes products from a given website and stores the data in a database. The application supports background tasks for scraping, caching using Redis, and API key-based authentication.
 
