@@ -76,3 +76,6 @@ The application exposes the following endpoints:
 ## Sequence Diagram
 
 ![Sequence Diagram](https://static.swimlanes.io/f6c68af233fe9cc167584007365e9e1c.png)
+
+## Postman Collection
+/PostmanCollection/AtlysWebscraperCurls.postman_collection.json
